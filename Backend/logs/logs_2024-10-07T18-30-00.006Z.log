@@ -1,0 +1,263 @@
+2024-10-07T06:31:09.614Z info: Connected to the MySQL database mysql2
+2024-10-07T06:31:09.712Z info: Server running on port 5000
+2024-10-07T06:32:13.063Z info: Connected to the MySQL database mysql2
+2024-10-07T06:32:13.160Z info: Server running on port 5000
+2024-10-07T06:32:16.916Z info: Connected to the MySQL database mysql2
+2024-10-07T06:32:17.012Z info: Server running on port 5000
+2024-10-07T06:32:22.019Z info: Connected to the MySQL database mysql2
+2024-10-07T06:32:22.116Z info: Server running on port 5000
+2024-10-07T06:32:25.507Z info: Connected to the MySQL database mysql2
+2024-10-07T06:32:25.601Z info: Server running on port 5000
+2024-10-07T06:32:31.450Z info: Connected to the MySQL database mysql2
+2024-10-07T06:32:31.545Z info: Server running on port 5000
+2024-10-07T06:33:12.194Z info: Connected to the MySQL database mysql2
+2024-10-07T06:33:12.287Z info: Server running on port 5000
+2024-10-07T06:36:42.712Z info: Connected to the MySQL database mysql2
+2024-10-07T06:36:42.806Z info: Server running on port 5000
+2024-10-07T06:41:57.372Z info: User registered successfully.
+2024-10-07T06:42:04.281Z error: Username or email already exists.
+2024-10-07T06:43:27.171Z info: User logged in successfully.
+2024-10-07T06:43:35.792Z error: Invalid username/email or password.
+2024-10-07T07:17:31.525Z info: Connected to the MySQL database mysql2
+2024-10-07T07:17:31.700Z info: Server running on port 5000
+2024-10-07T07:17:31.930Z error: User with this email does not exist.
+2024-10-07T07:18:32.007Z info: Connected to the MySQL database mysql2
+2024-10-07T07:18:32.181Z info: Server running on port 5000
+2024-10-07T07:18:54.628Z error: Invalid username/email or password.
+2024-10-07T07:19:07.997Z error: Invalid username/email or password.
+2024-10-07T07:19:18.839Z info: User registered successfully.
+2024-10-07T07:19:24.603Z error: Error during forgot password: Missing credentials for "PLAIN"
+2024-10-07T07:20:37.511Z info: Connected to the MySQL database mysql2
+2024-10-07T07:20:37.670Z info: Server running on port 5000
+2024-10-07T07:20:42.520Z error: Error during forgot password: Missing credentials for "PLAIN"
+2024-10-07T07:22:35.628Z info: Connected to the MySQL database mysql2
+2024-10-07T07:22:35.768Z info: Server running on port 5000
+2024-10-07T07:22:37.229Z info: Connected to the MySQL database mysql2
+2024-10-07T07:22:37.381Z info: Server running on port 5000
+2024-10-07T07:22:43.381Z info: Connected to the MySQL database mysql2
+2024-10-07T07:22:43.522Z info: Server running on port 5000
+2024-10-07T07:22:53.311Z info: Connected to the MySQL database mysql2
+2024-10-07T07:22:53.449Z info: Server running on port 5000
+2024-10-07T07:23:04.039Z info: Connected to the MySQL database mysql2
+2024-10-07T07:23:04.181Z info: Server running on port 5000
+2024-10-07T07:23:15.515Z info: Connected to the MySQL database mysql2
+2024-10-07T07:23:15.668Z info: Server running on port 5000
+2024-10-07T07:23:24.156Z info: Password reset email sent to suzelkhan44@gmail.com.
+2024-10-07T07:24:16.790Z info: Connected to the MySQL database mysql2
+2024-10-07T07:24:16.929Z info: Server running on port 5000
+2024-10-07T07:24:37.198Z info: Connected to the MySQL database mysql2
+2024-10-07T07:24:37.348Z info: Server running on port 5000
+2024-10-07T07:24:44.031Z info: Password reset email sent to suzelkhan44@gmail.com.
+2024-10-07T07:25:21.104Z info: Connected to the MySQL database mysql2
+2024-10-07T07:25:21.250Z info: Server running on port 5000
+2024-10-07T07:25:49.132Z info: Connected to the MySQL database mysql2
+2024-10-07T07:25:49.270Z info: Server running on port 5000
+2024-10-07T07:25:52.182Z info: Connected to the MySQL database mysql2
+2024-10-07T07:25:52.330Z info: Server running on port 5000
+2024-10-07T07:26:00.836Z info: Password reset email sent to suzelkhan44@gmail.com.
+2024-10-07T07:26:51.726Z info: Connected to the MySQL database mysql2
+2024-10-07T07:26:51.871Z info: Server running on port 5000
+2024-10-07T07:27:00.757Z info: Password reset email sent to suzelkhan44@gmail.com.
+2024-10-07T07:27:47.363Z info: Connected to the MySQL database mysql2
+2024-10-07T07:27:47.505Z info: Server running on port 5000
+2024-10-07T07:29:22.316Z info: Connected to the MySQL database mysql2
+2024-10-07T07:29:22.455Z info: Server running on port 5000
+2024-10-07T07:29:31.450Z info: Connected to the MySQL database mysql2
+2024-10-07T07:29:31.592Z info: Server running on port 5000
+2024-10-07T07:30:03.604Z info: Connected to the MySQL database mysql2
+2024-10-07T07:30:03.755Z info: Server running on port 5000
+2024-10-07T07:30:08.935Z info: Connected to the MySQL database mysql2
+2024-10-07T07:30:09.086Z info: Server running on port 5000
+2024-10-07T07:30:13.144Z info: Connected to the MySQL database mysql2
+2024-10-07T07:30:13.283Z info: Server running on port 5000
+2024-10-07T07:30:57.030Z info: Connected to the MySQL database mysql2
+2024-10-07T07:30:57.175Z info: Server running on port 5000
+2024-10-07T07:31:51.291Z info: Connected to the MySQL database mysql2
+2024-10-07T07:31:51.438Z info: Server running on port 5000
+2024-10-07T07:32:05.901Z info: Connected to the MySQL database mysql2
+2024-10-07T07:32:06.044Z info: Server running on port 5000
+2024-10-07T07:33:16.951Z info: Connected to the MySQL database mysql2
+2024-10-07T07:33:17.099Z info: Server running on port 5000
+2024-10-07T07:33:29.178Z info: Connected to the MySQL database mysql2
+2024-10-07T07:33:29.326Z info: Server running on port 5000
+2024-10-07T07:33:43.241Z info: Connected to the MySQL database mysql2
+2024-10-07T07:33:43.384Z info: Server running on port 5000
+2024-10-07T07:33:46.474Z info: Connected to the MySQL database mysql2
+2024-10-07T07:33:46.623Z info: Server running on port 5000
+2024-10-07T07:33:49.454Z info: Connected to the MySQL database mysql2
+2024-10-07T07:33:49.601Z info: Server running on port 5000
+2024-10-07T07:33:51.798Z info: Connected to the MySQL database mysql2
+2024-10-07T07:33:51.944Z info: Server running on port 5000
+2024-10-07T07:33:56.275Z info: Connected to the MySQL database mysql2
+2024-10-07T07:33:56.424Z info: Server running on port 5000
+2024-10-07T07:33:58.513Z info: Connected to the MySQL database mysql2
+2024-10-07T07:33:58.660Z info: Server running on port 5000
+2024-10-07T07:34:06.125Z info: Connected to the MySQL database mysql2
+2024-10-07T07:34:06.270Z info: Server running on port 5000
+2024-10-07T07:34:08.496Z info: Connected to the MySQL database mysql2
+2024-10-07T07:34:08.643Z info: Server running on port 5000
+2024-10-07T07:34:10.693Z info: Connected to the MySQL database mysql2
+2024-10-07T07:34:10.839Z info: Server running on port 5000
+2024-10-07T07:34:16.706Z info: Connected to the MySQL database mysql2
+2024-10-07T07:34:16.856Z info: Server running on port 5000
+2024-10-07T07:34:24.897Z info: Connected to the MySQL database mysql2
+2024-10-07T07:34:25.036Z info: Server running on port 5000
+2024-10-07T07:34:52.101Z info: Connected to the MySQL database mysql2
+2024-10-07T07:34:52.254Z info: Server running on port 5000
+2024-10-07T07:35:04.527Z info: User registered successfully.
+2024-10-07T07:35:41.735Z info: Password reset email sent to suzelkhan47@gmail.com.
+2024-10-07T07:36:35.930Z info: Password reset email sent to suzelkhan47@gmail.com.
+2024-10-07T07:37:35.297Z error: Username or email already exists.
+2024-10-07T07:37:47.573Z info: User registered successfully.
+2024-10-07T07:37:58.586Z info: Password reset email sent to suzelkhan46@gmail.com.
+2024-10-07T07:38:46.614Z info: Connected to the MySQL database mysql2
+2024-10-07T07:38:46.761Z info: Server running on port 5000
+2024-10-07T07:38:50.115Z info: Connected to the MySQL database mysql2
+2024-10-07T07:38:50.254Z info: Server running on port 5000
+2024-10-07T07:39:06.001Z info: Connected to the MySQL database mysql2
+2024-10-07T07:39:06.152Z info: Server running on port 5000
+2024-10-07T07:39:41.808Z info: Connected to the MySQL database mysql2
+2024-10-07T07:39:41.951Z info: Server running on port 5000
+2024-10-07T07:39:43.332Z info: Connected to the MySQL database mysql2
+2024-10-07T07:39:43.493Z info: Server running on port 5000
+2024-10-07T07:40:20.638Z info: Connected to the MySQL database mysql2
+2024-10-07T07:40:20.780Z info: Server running on port 5000
+2024-10-07T07:42:04.002Z info: Connected to the MySQL database mysql2
+2024-10-07T07:42:04.143Z info: Server running on port 5000
+2024-10-07T07:42:08.899Z info: Connected to the MySQL database mysql2
+2024-10-07T07:42:09.041Z info: Server running on port 5000
+2024-10-07T07:42:21.639Z info: Password reset email sent to suzelkhan46@gmail.com.
+2024-10-07T07:42:52.365Z info: Connected to the MySQL database mysql2
+2024-10-07T07:42:52.504Z info: Server running on port 5000
+2024-10-07T07:42:57.095Z info: Password reset successful.
+2024-10-07T07:44:48.206Z info: Connected to the MySQL database mysql2
+2024-10-07T07:44:48.347Z info: Server running on port 5000
+2024-10-07T07:44:53.808Z info: User logged in successfully.
+2024-10-07T07:46:46.669Z info: Connected to the MySQL database mysql2
+2024-10-07T07:46:46.810Z info: Server running on port 5000
+2024-10-07T07:46:56.907Z info: Connected to the MySQL database mysql2
+2024-10-07T07:46:57.047Z info: Server running on port 5000
+2024-10-07T07:47:02.657Z info: Connected to the MySQL database mysql2
+2024-10-07T07:47:02.797Z info: Server running on port 5000
+2024-10-07T07:47:18.086Z info: Connected to the MySQL database mysql2
+2024-10-07T07:47:18.228Z info: Server running on port 5000
+2024-10-07T07:47:20.976Z info: Connected to the MySQL database mysql2
+2024-10-07T07:47:21.116Z info: Server running on port 5000
+2024-10-07T07:47:35.053Z info: Connected to the MySQL database mysql2
+2024-10-07T07:47:35.194Z info: Server running on port 5000
+2024-10-07T07:47:38.253Z info: Connected to the MySQL database mysql2
+2024-10-07T07:47:38.392Z info: Server running on port 5000
+2024-10-07T07:47:40.835Z info: Connected to the MySQL database mysql2
+2024-10-07T07:47:40.975Z info: Server running on port 5000
+2024-10-07T07:47:56.064Z info: Connected to the MySQL database mysql2
+2024-10-07T07:47:56.202Z info: Server running on port 5000
+2024-10-07T07:48:16.991Z info: Connected to the MySQL database mysql2
+2024-10-07T07:48:17.134Z info: Server running on port 5000
+2024-10-07T07:48:19.574Z info: Connected to the MySQL database mysql2
+2024-10-07T07:48:19.726Z info: Server running on port 5000
+2024-10-07T07:48:24.125Z info: Connected to the MySQL database mysql2
+2024-10-07T07:48:24.264Z info: Server running on port 5000
+2024-10-07T07:48:26.723Z info: Connected to the MySQL database mysql2
+2024-10-07T07:48:26.867Z info: Server running on port 5000
+2024-10-07T07:48:29.545Z info: Connected to the MySQL database mysql2
+2024-10-07T07:48:29.683Z info: Server running on port 5000
+2024-10-07T07:48:46.918Z info: Connected to the MySQL database mysql2
+2024-10-07T07:48:47.057Z info: Server running on port 5000
+2024-10-07T07:48:49.485Z info: Connected to the MySQL database mysql2
+2024-10-07T07:48:49.649Z info: Server running on port 5000
+2024-10-07T07:48:56.611Z info: Connected to the MySQL database mysql2
+2024-10-07T07:48:56.758Z info: Server running on port 5000
+2024-10-07T07:49:00.160Z info: Connected to the MySQL database mysql2
+2024-10-07T07:49:00.307Z info: Server running on port 5000
+2024-10-07T07:49:08.468Z info: Connected to the MySQL database mysql2
+2024-10-07T07:49:08.615Z info: Server running on port 5000
+2024-10-07T07:49:13.542Z info: Connected to the MySQL database mysql2
+2024-10-07T07:49:13.681Z info: Server running on port 5000
+2024-10-07T07:49:17.881Z info: Connected to the MySQL database mysql2
+2024-10-07T07:49:18.023Z info: Server running on port 5000
+2024-10-07T07:49:21.101Z info: Connected to the MySQL database mysql2
+2024-10-07T07:49:21.244Z info: Server running on port 5000
+2024-10-07T07:49:22.712Z info: Connected to the MySQL database mysql2
+2024-10-07T07:49:22.851Z info: Server running on port 5000
+2024-10-07T07:49:54.083Z info: Connected to the MySQL database mysql2
+2024-10-07T07:49:54.226Z info: Server running on port 5000
+2024-10-07T07:50:05.183Z info: Connected to the MySQL database mysql2
+2024-10-07T07:50:05.335Z info: Server running on port 5000
+2024-10-07T07:50:53.968Z info: Connected to the MySQL database mysql2
+2024-10-07T07:50:54.131Z info: Server running on port 5000
+2024-10-07T07:51:03.675Z info: Connected to the MySQL database mysql2
+2024-10-07T07:51:03.822Z info: Server running on port 5000
+2024-10-07T09:33:38.037Z info: Connected to the MySQL database mysql2
+2024-10-07T09:33:38.179Z info: Server running on port 5000
+2024-10-07T09:33:40.686Z error: Access denied. No token provided.
+2024-10-07T09:56:13.937Z error: Invalid token.
+2024-10-07T09:56:27.934Z info: User logged in successfully.
+2024-10-07T09:56:31.693Z error: Invalid token.
+2024-10-07T09:56:34.025Z error: Invalid token.
+2024-10-07T09:56:44.459Z info: User logged in successfully.
+2024-10-07T09:56:48.050Z error: Invalid token.
+2024-10-07T09:57:12.795Z error: Invalid token.
+2024-10-07T09:57:55.678Z error: Invalid token.
+2024-10-07T09:57:57.376Z error: Invalid token.
+2024-10-07T09:58:09.452Z info: Connected to the MySQL database mysql2
+2024-10-07T09:58:09.598Z info: Server running on port 5000
+2024-10-07T09:58:13.490Z error: Invalid token.
+2024-10-07T09:58:15.078Z error: Invalid token.
+2024-10-07T10:00:02.373Z error: Invalid token.
+2024-10-07T10:01:21.160Z info: User logged in successfully.
+2024-10-07T10:02:17.749Z error: Invalid token.
+2024-10-07T10:02:29.158Z error: Invalid token.
+2024-10-07T10:03:45.818Z info: Connected to the MySQL database mysql2
+2024-10-07T10:03:45.978Z info: Server running on port 5000
+2024-10-07T10:03:49.475Z info: Connected to the MySQL database mysql2
+2024-10-07T10:03:49.723Z info: Server running on port 5000
+2024-10-07T10:04:09.622Z info: User authenticated successfully.
+2024-10-07T16:03:44.560Z info: Connected to the MySQL database mysql2
+2024-10-07T16:03:44.727Z info: Server running on port 5000
+2024-10-07T16:07:29.708Z info: User registered successfully.
+2024-10-07T16:10:47.763Z info: User logged in successfully.
+2024-10-07T16:12:54.312Z info: User logged in successfully.
+2024-10-07T16:13:39.242Z info: User logged in successfully.
+2024-10-07T16:32:20.991Z info: Password reset email sent to suzelkhan46@gmail.com.
+2024-10-07T16:32:25.497Z info: Password reset email sent to suzelkhan46@gmail.com.
+2024-10-07T16:32:30.119Z info: Password reset email sent to suzelkhan46@gmail.com.
+2024-10-07T16:34:13.980Z error: User with this email does not exist.
+2024-10-07T16:34:38.476Z info: Password reset email sent to suzelkhan46@gmail.com.
+2024-10-07T16:34:44.356Z info: Password reset email sent to suzelkhan46@gmail.com.
+2024-10-07T16:34:49.579Z info: Password reset email sent to suzelkhan46@gmail.com.
+2024-10-07T18:07:16.760Z info: Connected to the MySQL database mysql2
+2024-10-07T18:07:16.924Z info: Server running on port 5000
+2024-10-07T18:13:05.532Z info: Password reset email sent to suzelkhan46@gmail.com.
+2024-10-07T18:15:11.594Z info: Connected to the MySQL database mysql2
+2024-10-07T18:15:11.732Z info: Server running on port 5000
+2024-10-07T18:15:38.863Z error: Error during forgot password: resetURL is not defined
+2024-10-07T18:16:22.083Z info: Connected to the MySQL database mysql2
+2024-10-07T18:16:22.222Z info: Server running on port 5000
+2024-10-07T18:16:25.758Z info: Connected to the MySQL database mysql2
+2024-10-07T18:16:25.907Z info: Server running on port 5000
+2024-10-07T18:16:42.071Z info: Connected to the MySQL database mysql2
+2024-10-07T18:16:42.212Z info: Server running on port 5000
+2024-10-07T18:16:48.237Z info: Password reset email sent to suzelkhan46@gmail.com.
+2024-10-07T18:19:52.257Z info: Password reset email sent to suzelkhan46@gmail.com.
+2024-10-07T18:20:22.362Z info: Password reset successful.
+2024-10-07T18:20:42.429Z error: Invalid or expired reset token.
+2024-10-07T18:21:14.454Z error: Invalid username/email or password.
+2024-10-07T18:21:24.123Z info: User logged in successfully.
+2024-10-07T18:22:43.230Z info: User logged in successfully.
+2024-10-07T18:23:36.625Z info: Password reset email sent to suzelkhan46@gmail.com.
+2024-10-07T18:23:42.053Z info: Password reset email sent to suzelkhan46@gmail.com.
+2024-10-07T18:24:02.904Z error: Invalid or expired reset token.
+2024-10-07T18:24:29.393Z error: Invalid username/email or password.
+2024-10-07T18:24:36.199Z info: User logged in successfully.
+2024-10-07T18:24:56.899Z error: User with this email does not exist.
+2024-10-07T18:25:13.500Z info: Password reset email sent to suzelkhan46@gmail.com.
+2024-10-07T18:25:17.083Z info: Password reset email sent to suzelkhan46@gmail.com.
+2024-10-07T18:25:45.040Z error: Invalid or expired reset token.
+2024-10-07T18:26:23.419Z error: Invalid or expired reset token.
+2024-10-07T18:27:20.500Z info: Connected to the MySQL database mysql2
+2024-10-07T18:27:20.651Z info: Server running on port 5000
+2024-10-07T18:27:23.273Z info: Connected to the MySQL database mysql2
+2024-10-07T18:27:23.411Z info: Server running on port 5000
+2024-10-07T18:27:49.170Z info: Password reset successful.
+2024-10-07T18:28:25.293Z info: Connected to the MySQL database mysql2
+2024-10-07T18:28:25.439Z info: Server running on port 5000
